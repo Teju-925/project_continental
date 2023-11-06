@@ -1,5 +1,2 @@
 Hey this is tejaswini
-:w
-:Q
-hello 
 
